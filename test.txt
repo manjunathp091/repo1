@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is F434-3CE2
+
+ Directory of C:\Users\KNS008\Desktop\gitproject
+
+01/19/2017  06:27    <DIR>          .
+01/19/2017  06:27    <DIR>          ..
+01/19/2017  06:27                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  35,156,811,776 bytes free
